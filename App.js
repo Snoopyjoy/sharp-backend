@@ -5,10 +5,3 @@
  * Web:         www.hxl2lgy.top
  * Email:       hel13140302@126.com
  */
-function App()
-{
-
-}
-let proto = App.prototype;
-
-module.exports = App;
